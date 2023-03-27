@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.crypto-currency-container {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  height: 50px;
+  width: 50px;
+}
